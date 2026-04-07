@@ -1,0 +1,16 @@
+{
+  "id": "app214-music-ai",
+  "name": "App214 Music AI",
+  "tagline": "AI-powered creative solution",
+  "description": "AI-powered app214-music-ai application built for Aurora Market. Modern, responsive design with SaaS monetization.",
+  "category": "creative",
+  "tags": ["ai", "creative"],
+  "url": "https://auroramarket.org/app214-music-ai",
+  "demo": "https://21leahcimhtiek-oss.github.io/app214-music-ai",
+  "repo": "https://github.com/21leahcimhtiek-oss/app214-music-ai",
+  "stack": ["TypeScript", "Next.js", "React"],
+  "status": "mvp",
+  "version": "1.0.0",
+  "author": "Aurora Rayes LLC",
+  "license": "MIT"
+}
